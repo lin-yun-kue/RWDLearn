@@ -59,9 +59,7 @@ header {
     overflow: hidden;
 }
 .fans {
-
     float: right;
-    height: 30px;
     margin-top: 5px;
 }
 .fans li {
